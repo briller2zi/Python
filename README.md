@@ -2,7 +2,7 @@
 ## 파이썬 기초 개념다지기
 1. 
 ## 프로그래머스
-1. 코딩테스트 입문
+1. [코딩테스트 입문](https://github.com/briller2zi/Python/tree/main/Codingtest)
 2. 코딩 기초 트레이닝
 3. Stack & Queue
 4. Brute_force
