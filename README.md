@@ -1,6 +1,6 @@
 # Python
 ## 파이썬 기초 개념다지기
-1. 리스트 [개념정리]리스트.ipynb
+1. [리스트](https://github.com/briller2zi/Python/blob/main/%5B%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC%5D%EB%A6%AC%EC%8A%A4%ED%8A%B8.ipynb)
 2. 
 ## 프로그래머스
 1. [코딩테스트 입문](https://github.com/briller2zi/Python/tree/main/Codingtest)
