@@ -1,6 +1,7 @@
 # Python
 ## 파이썬 기초 개념다지기
-1. 
+1. 리스트
+2. 
 ## 프로그래머스
 1. [코딩테스트 입문](https://github.com/briller2zi/Python/tree/main/Codingtest)
 2. 코딩 기초 트레이닝
